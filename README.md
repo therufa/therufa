@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm just an average Joe living a simple life as a freelance developer somewhere in the middle of nowhere.
+
 <!--
 **therufa/therufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
