@@ -6,6 +6,10 @@ In this current life I discovered that the passion of my host is to write softwa
 
 I mainly work with javascript stuff lately, but there's much more under the hood. Thanks for checking in! 👋
 
+
+## "First functional, then pretty"
+This is just a reminder to myself
+
 <!--
 **therufa/therufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
