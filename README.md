@@ -8,7 +8,7 @@ I mainly work with javascript stuff lately, but there's much more under the hood
 
 
 ## "First functional, then pretty"
-This is just a reminder to myself
+(This is just a note to myself)
 
 <!--
 **therufa/therufa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
