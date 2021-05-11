@@ -1,1 +1,1 @@
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l0ExhcMymdL6TrZ84" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funny-party-l0ExhcMymdL6TrZ84">via GIPHY</a></p>
+<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.giphy.com/media/l0ExhcMymdL6TrZ84/giphy-downsized-large.gif">
